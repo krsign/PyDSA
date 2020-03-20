@@ -1,7 +1,8 @@
 # -*- coding: utf-8 -*-
 """
-Algorithm to Convert decimal to octal or hexadecimal
-    1. take two number in function number and it's base
+Algorithm to Convert decimal to octal or hexadecimal:
+
+    1. take two number in function number and its base
     2. define digit = '123456789ABCDEF' because we are converting till hexa decimal
     3. loop until number is less than 0 and store in stack
     4. define variable to store reverse value 
